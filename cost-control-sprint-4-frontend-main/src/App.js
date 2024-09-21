@@ -12,6 +12,13 @@ import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 // Components for different pages (dummy components for now)
 const userId = "101";
+
+import Navbar from "./components/Navbar";
+import Sidebar from "./components/Sidebar";
+// Components for different pages (dummy components for now)
+const userId = "101";
+
+
 // Components for different pages (dummy components for now)
 //const TrackSpending = () => <div>Track Spending Page</div>;
 //const CreateBudget = () => <div>Create Budget Page</div>;

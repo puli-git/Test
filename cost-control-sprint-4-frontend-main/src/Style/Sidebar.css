@@ -1,0 +1,39 @@
+/*@author: Komal*/
+.budgetsection {
+  background-color: #e0e0e0;
+  border-radius: 2rem;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+.budgetcontent {
+  display: flexbox;
+  justify-content: space-between;
+  gap: 2rem;
+  font-weight: 700;
+}
+
+.reward-points {
+  border-radius: 2rem;
+  border: 2px solid #333;
+}
+
+.rewardsection {
+  background-color: #e0e0e0;
+  border-radius: 2rem;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.rewardcontent {
+  display: flex;
+  gap: 2rem;
+  font-weight: 700;
+}

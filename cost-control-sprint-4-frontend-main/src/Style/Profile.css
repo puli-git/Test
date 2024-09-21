@@ -1,0 +1,21 @@
+/*@author: Komal*/
+.profileContainer {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.intro {
+  font-weight: 2000;
+}
+
+.detail {
+  border: solid #333;
+
+  width: 35rem;
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+}

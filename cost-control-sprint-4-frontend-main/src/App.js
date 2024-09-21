@@ -17,6 +17,7 @@ import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 // Components for different pages (dummy components for now)
 const userId = "101";
+const dummy =102;
 
 
 // Components for different pages (dummy components for now)

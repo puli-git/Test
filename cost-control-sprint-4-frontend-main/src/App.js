@@ -19,7 +19,16 @@ import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 // Components for different pages (dummy components for now)
 const userId = "101";
-const dummy =102;
+const dummy =103;
+
+import Navbar from "./components/Navbar";
+import Sidebar from "./components/Sidebar";
+// Components for different pages (dummy components for now)
+const userId = "101";
+const dummy =103;
+
+skdjsd
+
 
 
 // Components for different pages (dummy components for now)

@@ -1,2 +1,5 @@
-class three{
+class three
+{
+	public void display(){
+	}
 }
